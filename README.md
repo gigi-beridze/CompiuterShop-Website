@@ -1,2 +1,2 @@
-# CompiuterShop-Website
+# CompiuterShop - Back end
 economic websites with java(back end). have a full admin panel, control users, items, everything. used java, jquery , ajax , microsoft sql server, bootstrap, html/css...
